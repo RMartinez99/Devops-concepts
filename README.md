@@ -26,3 +26,7 @@
 
 # REST (Representational state transfer) defines sets of constraints to be used to make Web services, basically they are like rules or principles.
 
+# Scrum is a lightweight process framework that follows a particular set of practices for consistency. It maximizes time available to get useful things done
+
+# Kanban is a visual system for managing work as it moves through processes and can ID any bottlenecks a process has
+
