@@ -12,3 +12,17 @@
 
 # Cloud Scalability is ability to increase/decrease IT resources depending on demand
 
+# Software architecture is what the higher level components of software is made of and how they work together
+
+# A software architecture pattern is a solution to problems that commonly occur in the architecture
+
+# Client/Server is a structure that splits tasks between servers and clients
+
+# Peer to peer refers to an architecture that splits tasks between peers
+
+# Monolithic refers to when an app uses a single development stack (example: using one py file for a python app)
+
+# Microservices is different since it is one app but uses components that run and communicate together.
+
+# REST (Representational state transfer) defines sets of constraints to be used to make Web services, basically they are like rules or principles.
+
